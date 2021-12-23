@@ -1,0 +1,12 @@
+name: FECSummary
+title: FECSummary
+username:
+account: weitzele
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3885172
+bundleId: 4414300
+url: https://weitzele.shinyapps.io/FECSummary/
+when: 1617159644.05329
+asMultiple: FALSE
+asStatic: FALSE
